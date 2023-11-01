@@ -1,6 +1,6 @@
 # Dark_Coding
 <html>
- <body background-color: blue;>
+ <body bgcolor="grean">
 <head><h2>This is a first GitHub project.</h2></head>
 <pre>
 Hey everyone. I'm starting this discussion thread to introduce myself.
