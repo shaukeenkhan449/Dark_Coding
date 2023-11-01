@@ -1,7 +1,7 @@
 # Dark_Coding
 <html>
  <body background-color: blue;>
-<head><h1>This is a first GitHub project.</h1></head>
+<head><h2>This is a first GitHub project.</h2></head>
 <pre>
 Hey everyone. I'm starting this discussion thread to introduce myself.
 
