@@ -1,6 +1,6 @@
 # Dark_Coding
 This is a first GitHub project.
-*{
+body{
 font-size: large;
 }
 <pre>
